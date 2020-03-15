@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  box-sizing: border-box;
+  overflow: hidden;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3vh;
+  margin: 0px;
+}
+
+.weather_container {
+  position: absolute;
+  left: 0vmax;
+  bottom: 5vmax;
+  opacity: 0;
+  overflow: hidden;
+
+  border-right: 3px solid rgb(200,20,50);
+  padding-right: 0.4em;
+  padding-left: 3vmax;
+  color: rgb(100,100,100);
+  background-color: white;
+}
+
+.weather_container div,
+.weather_container svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.weather_container div>span {
+  display: block;
+}
+
+
+.weather_container span.temperature {
+  font-size: 1.8em;
+}
+
+.weather_container span.temperature::before {
+  content: '';
+  width: 1.0em;
+  display: inline-block;
+}
+
+.weather_container svg {
+  transform: translateY(0.0em);
+}

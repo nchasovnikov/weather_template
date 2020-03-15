@@ -1,0 +1,52 @@
+{
+  "id": 554234,
+  "name": "Kaliningrad",
+  "state": "",
+  "country": "RU",
+  "coord": {
+    "lon": 20.51095,
+    "lat": 54.70649
+  }
+},
+{
+  "id": 485699,
+  "name": "Svetlogorsk",
+  "state": "",
+  "country": "RU",
+  "coord": {
+    "lon": 20.154791,
+    "lat": 54.939869
+  }
+},
+{
+  "id": 463828,
+  "name": "Zelenogradsk",
+  "state": "",
+  "country": "RU",
+  "coord": {
+    "lon": 20.476681,
+    "lat": 54.958931
+  }
+},
+{
+  "id": 509437,
+  "name": "Pionerskiy",
+  "state": "",
+  "country": "RU",
+  "coord": {
+    "lon": 20.22748,
+    "lat": 54.950829
+  }
+},
+{
+  "id": 2609906,
+  "name": "Baltiysk",
+  "state": "",
+  "country": "RU",
+  "coord": {
+    "lon": 19.911039,
+    "lat": 54.65382
+  }
+},
+
+api.openweathermap.org/data/2.5/forecast?id=463828&appid=0214d614e494dfce86b0d4610b796479

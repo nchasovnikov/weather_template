@@ -1,0 +1,50 @@
+{"cod":"200",
+  "message":0,
+  "cnt":40,
+  "list":[{
+    "dt":1584122400,
+    "main":{
+      "temp":277.66,
+      "feels_like":270.86,
+      "temp_min":277.66,
+      "temp_max":277.78,
+      "pressure":1000,
+      "sea_level":1000,
+      "grnd_level":1000,
+      "humidity":87,
+      "temp_kf":-0.12
+    },
+    "weather":[{
+      "id":500,
+      "main":"Rain",
+      "description":"небольшой дождь",
+      "icon":"10n"
+    }],
+    "clouds":{
+      "all":86
+    },
+    "wind":{
+      "speed":7.46,
+      "deg":238
+    },
+    "rain":{
+      "3h":0.25
+    },
+    "sys":{
+      "pod":"n"
+    },
+    "dt_txt":"2020-03-13 18:00:00"
+    }],
+  "city":{
+    "id":463828,
+    "name":"Зеленоградск",
+    "coord":{
+      "lat":54.9589,
+      "lon":20.4767
+    },
+    "country":"RU",
+    "timezone":7200,
+    "sunrise":1584075454,
+    "sunset":1584117454
+  }
+}
