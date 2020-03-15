@@ -1,4 +1,4 @@
-// List of languages supported by Openweather.com
+// List of languages supported by https://openweathermap.org/
 let language_list = [{"code":"af","id":1,"language":"Afrikaans"},
 {"code":"ar","id":2,"language":"Arabic"},
 {"code":"az","id":3,"language":"Azerbaijani"},
@@ -45,7 +45,7 @@ let language_list = [{"code":"af","id":1,"language":"Afrikaans"},
 {"code":"zh_tw","id":44,"language":"Chinese Traditional"},
 {"code":"zu","id":45,"language":"Zulu"}];
 
-// List of weather codes by Openweather.com and corresponding icons
+// List of weather codes by https://openweathermap.org/ and corresponding icons
 let weather_codes = [{"weather_id":200, "weather_icon":"icon_thundery_showers"},
 {"weather_id":201, "weather_icon":"icon_thundery_showers"},
 {"weather_id":202, "weather_icon":"icon_thundery_showers"},
