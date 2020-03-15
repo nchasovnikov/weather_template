@@ -1,12 +1,3 @@
-let api_id = '0214d614e494dfce86b0d4610b796479';
-let city_id = 2609906;
-
-let argument = {
-  city_id: city_id,
-  api_id: api_id,
-  language: 'Russian'
-};
-
 // List of languages supported by Openweather.com
 let language_list = [{"code":"af","id":1,"language":"Afrikaans"},
 {"code":"ar","id":2,"language":"Arabic"},
